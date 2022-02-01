@@ -1,4 +1,4 @@
-# config file for parking lot system
+# config file for parking system
 
 total_spaces=20
 rows=4
